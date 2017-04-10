@@ -6,3 +6,4 @@
 4. [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) - [Code](arithmetic_operators.py)
 5. [Python: Division](https://www.hackerrank.com/challenges/python-division) - [Code](python_division.py)
 6. [Loops](https://www.hackerrank.com/challenges/python-loops) - [Code](loops.py)
+7. [Write a Function](https://www.hackerrank.com/challenges/write-a-function) - [Code](write_a_function.py)
