@@ -5,3 +5,4 @@
 3. [Python If Else](https://www.hackerrank.com/challenges/py-if-else) - [Code](python_if_else.py)
 4. [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) - [Code](arithmetic_operators.py)
 5. [Python: Division](https://www.hackerrank.com/challenges/python-division) - [Code](python_division.py)
+6. [Loops](https://www.hackerrank.com/challenges/python-loops) - [Code](loops.py)
