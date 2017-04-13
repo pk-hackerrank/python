@@ -5,3 +5,4 @@
 3. [List Compresssions](https://www.hackerrank.com/challenges/list-comprehensions) - [Code][list_compresssions.py]
 4. [Second Largest Number in List](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) - [Code](second_largest_number.py)
 5. [Nested List](https://www.hackerrank.com/challenges/nested-list) - [Code](nested_list.py)
+6. [Finding the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage) - [Code](finding_the_percentage.py)
