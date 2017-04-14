@@ -5,5 +5,5 @@ def split_and_join(line):
 
 if __name__ == '__main__':
     line = input()
-    result = split_and_join(line)
+    result = split_and_join(line) # Calling split_and_join to split using str.spli() and join using str.join()
     print(result)
