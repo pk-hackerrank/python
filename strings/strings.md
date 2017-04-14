@@ -4,3 +4,4 @@
 2. [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join) - [Code](split_and_join.py)
 3. [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name) - [Code](whats_your_name.py)
 4. [Mutations](https://www.hackerrank.com/challenges/python-mutations) - [Code](mutations.py)
+5. [Find a String](https://www.hackerrank.com/challenges/find-a-string) - [Code](find_a_string.py)
