@@ -8,3 +8,4 @@
 6. [String Validators](https://www.hackerrank.com/challenges/string-validators) - [Code](string_validators.py)
 7. [Text Alignment](https://www.hackerrank.com/challenges/text-alignment) - [Code](text_alignment.py)
 8. [Text Wrap](https://www.hackerrank.com/challenges/text-wrap) - [Code](text_wrap.py)
+9. [Designer door mat](https://www.hackerrank.com/challenges/designer-door-mat) - [Code](designer_door_mat.py)
