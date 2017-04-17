@@ -6,3 +6,4 @@
 4. [Mutations](https://www.hackerrank.com/challenges/python-mutations) - [Code](mutations.py)
 5. [Find a String](https://www.hackerrank.com/challenges/find-a-string) - [Code](find_a_string.py)
 6. [String Validators](https://www.hackerrank.com/challenges/string-validators) - [Code](string_validators.py)
+7. [Text Alignment](https://www.hackerrank.com/challenges/text-alignment) - [Code](text_alignment.py)
