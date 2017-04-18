@@ -10,3 +10,4 @@
 8. [Text Wrap](https://www.hackerrank.com/challenges/text-wrap) - [Code](text_wrap.py)
 9. [Designer door mat](https://www.hackerrank.com/challenges/designer-door-mat) - [Code](designer_door_mat.py)
 10. [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting) - [Code](string_formatting.py)
+11. [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli) - [Code](alphabet_rangoli.py)
