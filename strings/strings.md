@@ -12,3 +12,4 @@
 10. [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting) - [Code](string_formatting.py)
 11. [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli) - [Code](alphabet_rangoli.py)
 12. [Capitalize](https://www.hackerrank.com/challenges/capitalize) - [Code](capitalize.py)
+13. [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game) - [Code](the_minion_game.py)
