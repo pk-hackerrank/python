@@ -13,3 +13,4 @@
 11. [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli) - [Code](alphabet_rangoli.py)
 12. [Capitalize](https://www.hackerrank.com/challenges/capitalize) - [Code](capitalize.py)
 13. [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game) - [Code](the_minion_game.py)
+14. [Merge the tools](https://www.hackerrank.com/challenges/merge-the-tools) - [Code](merge_the_tools.py)
