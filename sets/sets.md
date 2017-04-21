@@ -7,3 +7,4 @@
 5. [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop) - [Code](set_discard_remove_pop.py)
 6. [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union) - [Code](set_union.py)
 7. [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation) - [Code](set_intersection.py)
+8. [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation) - [Code](set_difference.py)
