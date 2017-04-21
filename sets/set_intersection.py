@@ -6,8 +6,8 @@ set1 = set(map(int, input().split()))
 second_input = input()
 # Same as set2
 set2 = set(map(int, input().split()))
-# Union of set1 and set2 returns the set of all elements combining set1 and set2
-# We can also use set1 | set2 , the or operator.
-set3 = set1.union(set2)
+# Intersection of set1 and set2 returns the set of unique elements there in both set1 and set2
+# We can also use set1 & set2 , the and operator.
+set3 = set1.intersection(set2)
 # Printing the count of elements in Set
 print(len(set3))
