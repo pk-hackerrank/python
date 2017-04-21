@@ -9,3 +9,4 @@
 7. [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation) - [Code](set_intersection.py)
 8. [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation) - [Code](set_difference.py)
 9. [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation) - [Code](set_symmetric_difference.py)
+10. [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations) - [Code](set_mutations.py)
