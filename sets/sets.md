@@ -11,3 +11,4 @@
 9. [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation) - [Code](set_symmetric_difference.py)
 10. [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations) - [Code](set_mutations.py)
 11. [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room) - [Code](captains_room.py)
+12. [Check Subset](https://www.hackerrank.com/challenges/py-check-subset) - [Code](check_subset.py)
