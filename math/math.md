@@ -6,3 +6,4 @@
 4. [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod) - [Code](mod_divmod.py)
 5. [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power) - [Code](power_modpower.py)
 6. [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes) - [Code](integer_come_in_all_sizes.py)
+7. [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1) - [Code](triangle_quest.py)
