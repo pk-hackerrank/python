@@ -6,3 +6,4 @@
 4. [Sets](https://www.hackerrank.com/domains/python/py-sets) - [doc](sets/sets.md)
 5. [Math](https://www.hackerrank.com/domains/python/py-math) - [doc](math/math.md)
 6. [Itertools](https://www.hackerrank.com/domains/python/py-itertools) - [doc](itertools/itertools.md)
+7. [Collections](https://www.hackerrank.com/domains/python/py-collections) - [doc](collections/collections.md)
