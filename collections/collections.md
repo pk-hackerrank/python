@@ -5,3 +5,4 @@
 3. [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple) - [Code](collections_namedtuple.py)
 4. [Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict) - [Code](collections_ordereddict.py)
 5. [Word Order](https://www.hackerrank.com/challenges/word-order) - [Code](word_order.py)
+6. [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque) - [Code](collections_deque.py)
