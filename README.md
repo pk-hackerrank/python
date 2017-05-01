@@ -7,3 +7,4 @@
 5. [Math](https://www.hackerrank.com/domains/python/py-math) - [doc](math/math.md)
 6. [Itertools](https://www.hackerrank.com/domains/python/py-itertools) - [doc](itertools/itertools.md)
 7. [Collections](https://www.hackerrank.com/domains/python/py-collections) - [doc](collections/collections.md)
+8. [Date and time](https://www.hackerrank.com/domains/python/py-date-time) - [doc](date_and_time/date_and_time.md)
